@@ -1,0 +1,15 @@
+{
+  "name": "نظام كاشير المطعم المتكامل",
+  "short_name": "كاشير المطعم",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
